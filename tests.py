@@ -20,6 +20,7 @@ class TestFunctions(unittest.TestCase):
         self.assertEqual(add3(2), 5)
         self.assertEqual(add3(3), 6)
         self.assertEqual(add3(4), 7)
+        self.assertEqual(add3(5), 8)
 
 if __name__ == "__main__":
     unittest.main()
