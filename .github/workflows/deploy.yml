@@ -18,3 +18,4 @@ jobs:
           port: 22
           source: "index.html"
           target: "moon.scs.ryerson.ca/home/avm/courses/cps847/${{ secrets.DEPLOY_USERNAME }}"
+          
