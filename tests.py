@@ -14,7 +14,6 @@ class TestFunctions(unittest.TestCase):
         self.assertEqual(add2(2), 4)
         self.assertEqual(add2(3), 5)
         self.assertEqual(add2(4), 6)
-        self.assertEqual(add2(1), 3)
 
     def test_add3(self):
         """test add 3"""
