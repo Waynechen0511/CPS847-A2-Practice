@@ -1,5 +1,8 @@
+"""
+Tests
+"""
 import unittest
-from Functions import add2, add3
+from functions import add2, add3
 
 class TestFunctions(unittest.TestCase):
     """
