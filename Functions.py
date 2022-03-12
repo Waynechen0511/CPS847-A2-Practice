@@ -8,7 +8,7 @@ def add2(num):
     """
     return num + 2
 
-def add3(x):
+def add3(num):
     """
     Add 3
     """
